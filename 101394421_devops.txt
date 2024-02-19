@@ -1,0 +1,1 @@
+COMP 2156, DevOps, is a course offered at George Brown College that focuses on the principles, practices, and tools used in the field of DevOps (Development and Operations). DevOps is a software development methodology that emphasizes collaboration, communication, automation, and integration between software developers and IT operations professionals.
